@@ -6,6 +6,9 @@
 ### 购买
 赞颂者是商业化的，用于允许用户以 **Windows PC** 进入网易基岩版租赁服。
 
+需要说明的是，赞颂者基于 **PhoenixBuilder** 验证服务而存在。
+您必须要持有相应验证服务的账号，然后才能使用赞颂者，这是**必要的前提条件**。
+
 您可以通过以下两种途径购买。
 - [云裳](https://store.yscloud.org)
 - [雪莲](http://shop.snowlotus.website)
