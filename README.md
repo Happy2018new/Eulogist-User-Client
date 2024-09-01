@@ -7,8 +7,8 @@
 赞颂者是商业化的，用于允许用户以 **Windows PC** 进入网易基岩版租赁服。
 
 您可以通过以下两种途径购买。
-- [云裳](store.yscloud.org)
-- [雪莲](shop.snowlotus.website)
+- [云裳](https://store.yscloud.org)
+- [雪莲](http://shop.snowlotus.website)
 
 ### 开发者
 为 **PhoenixBuilder** 及相关联社区工作的开发者将可以免费使用赞颂者，以提高工作效率。
