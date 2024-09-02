@@ -12,6 +12,8 @@
 您可以通过以下两种途径购买。
 - [云裳](https://store.yscloud.org)
 - [雪莲](http://shop.snowlotus.website)
+- [拓界商城](https://xuanmi.vip)
+- [秋月在线商场](https://store.hz2333.cn)
 
 ### 开发者
 为 **PhoenixBuilder** 及相关联社区工作的开发者将可以免费使用赞颂者，以提高工作效率。
